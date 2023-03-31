@@ -21,6 +21,7 @@ public class DoWhile {
         int codigo;
         int password;
         String atrib1;
+        String atrib2;
 
         do {
 
