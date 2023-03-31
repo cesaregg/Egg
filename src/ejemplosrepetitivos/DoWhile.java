@@ -20,6 +20,7 @@ public class DoWhile {
 
         int codigo;
         int password;
+        String atrib1;
 
         do {
 
